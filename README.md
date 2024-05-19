@@ -9,3 +9,10 @@
 * Remover tarefas: Os usuários podem excluir tarefas que já foram concluídas ou que não são mais necessárias.
 * Marcar tarefas como concluídas: Os usuários podem marcar tarefas como concluídas para indicar que foram realizadas com sucesso.
 * Visualizar lista de tarefas: Os usuários podem visualizar todas as tarefas em uma lista, com opções para filtrar por status de conclusão e ordenar por diferentes critérios, como data de criação ou prioridade.
+
+# ⚙️ Pré-requisitos:
+
+* Node.js e npm (Node Package Manager) instalados no seu sistema. Você pode baixar e instalar o Node.js em https://nodejs.org.
+🔨 Guia de instalação:
+
+Passo 1: Clonar o repositório do projeto do Gerenciador de Tarefas do GitHub:
