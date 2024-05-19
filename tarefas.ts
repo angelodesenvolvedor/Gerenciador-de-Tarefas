@@ -1,8 +1,7 @@
-// Definindo uma interface chamada 'Tarefa' para representar uma tarefa.
 interface Tarefa {
-  id: number; // Identificador único da tarefa.
-  descricao: string; // Descrição da tarefa.
-  concluida: boolean; // Indica se a tarefa foi concluída ou não.
+  id: number; 
+  descricao: string; 
+  concluida: boolean; 
 }
 
 // Criando uma função para imprimir os detalhes de uma tarefa.
