@@ -35,4 +35,4 @@
 
 ## 📄 Licença
 
-* Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md]().
+* Esse projeto está sob a licença MIT license - acesse os detalhes [LICENSE.md](https://github.com/angelodesenvolvedor/gerenciador-de-tarefas/tree/main?tab=MIT-1-ov-file).
