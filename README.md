@@ -12,7 +12,8 @@
 
 # ⚙️ Pré-requisitos:
 
-* Node.js e npm (Node Package Manager) instalados no seu sistema. Você pode baixar e instalar o Node.js em https://nodejs.org.
-🔨 Guia de instalação:
+* Node.js e npm (Node Package Manager) instalados no seu sistema. Você pode baixar e instalar o [Node.js](https://nodejs.org).
+  
+# 🔨 Guia de instalação:
 
 Passo 1: Clonar o repositório do projeto do Gerenciador de Tarefas do GitHub:
