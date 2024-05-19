@@ -16,4 +16,11 @@
   
 # 🔨 Guia de instalação:
 
-Passo 1: Clonar o repositório do projeto do Gerenciador de Tarefas do GitHub:
+* Passo 1: Clonar o repositório:
+* *git clone https://github.com/angelodesenvolvedor/gerenciador-de-tarefas.git*
+* Passo 2: Acessar o diretório do projeto:
+* *cd gerenciador-de-tarefas*
+* Passo 3: Instalar as dependências do projeto:
+* *npm install -g typescript*
+* Passo 4: Executar o projeto:
+* *npx tsc tarefas.ts*
